@@ -279,3 +279,8 @@ nav .nav-right img {
     margin-right: 0;
   }
 }
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
